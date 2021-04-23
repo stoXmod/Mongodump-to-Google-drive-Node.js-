@@ -1,0 +1,23 @@
+{
+  "name": "mongodrive",
+  "version": "0.0.0",
+  "private": true,
+  "Author":"stoXmod",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "cron": "^1.8.2",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "ejs": "~2.6.1",
+    "express": "~4.16.1",
+    "googleapis": "^72.0.0",
+    "http-errors": "~1.6.3",
+    "lodash": "^4.17.21",
+    "mongoose": "^5.12.5",
+    "morgan": "~1.9.1",
+    "zip-folder": "^1.0.0"
+  }
+}
