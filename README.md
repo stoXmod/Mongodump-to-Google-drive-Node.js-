@@ -1,4 +1,4 @@
-# Mongodump to Google drive as a (zip Express)
+# Mongodump to Google drive as a zip (Node.js Express)
 
 - Clone or download as a zip
 - Open folder with Vscode or something like 
